@@ -6,6 +6,17 @@
   "license": "MIT",
   "keywords": ["typescript", "utility", "library"],
 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raeffray/io-kurumim-ts-lib.git"
+  },
+  
+  "bugs": {
+    "url": "https://github.com/raeffray/io-kurumim-ts-lib/issues"
+  },
+
+  "homepage": "https://github.com/raeffray/io-kurumim-ts-lib#readme",
+
   "main": "dist/index.cjs",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
