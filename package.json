@@ -4,13 +4,13 @@
   "description": "A lightweight TypeScript utility library",
   "author": "Renato Raeffray <raeffray@gmail.com>",
   "license": "MIT",
-  "keywords": ["typescript", "utility", "library"],
+  "keywords": ["typescript", "optional", "monad", "functional-programming"],
 
   "repository": {
     "type": "git",
     "url": "https://github.com/raeffray/io-kurumim-ts-lib.git"
   },
-  
+
   "bugs": {
     "url": "https://github.com/raeffray/io-kurumim-ts-lib/issues"
   },
