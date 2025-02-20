@@ -3,6 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/io-kurumim-ts-lib)](https://www.npmjs.com/package/io-kurumim-ts-lib)
 [![GitHub stars](https://img.shields.io/github/stars/raeffray/io-kurumim-ts-lib?style=social)](https://github.com/raeffray/io-kurumim-ts-lib)
 [![GitHub issues](https://img.shields.io/github/issues/raeffray/io-kurumim-ts-lib)](https://github.com/raeffray/io-kurumim-ts-lib/issues)
+[![Run Tests](https://github.com/raeffray/io-kurumim-ts-lib/actions/workflows/main.yml/badge.svg)](https://github.com/raeffray/io-kurumim-ts-lib/actions/workflows/main.yml)
 
 ## Overview
 `io-kurumim-ts-lib` provides a modern **Optional<T>** implementation for **TypeScript**. This Optional helps handle **nullable (null or undefined) values safely**, using **the monad concept** to allow chaining operations **without errors**.
